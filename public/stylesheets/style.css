@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(236, 196, 109);
+    padding: 2% 10%;
+    text-align: center;
+}
+
+h1 {
+    margin: 2rem auto;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+nav a {
+    padding: 3rem 1rem;
+}
+
+img.full-width {
+    max-width: 100%;
+}
+
+.banner {
+    border: 3px solid rgb(255, 106, 0);
+    background-color: rgb(255, 189, 46);
+    margin: 2rem auto;
+    padding: 1rem;
+}
+
